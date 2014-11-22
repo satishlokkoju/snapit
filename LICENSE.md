@@ -1,4 +1,4 @@
-Copyright (c) {{{2014}}}, {{{Satish Lokkoju}}}
+Copyright (c)  2014 ,  Satish Lokkoju
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
